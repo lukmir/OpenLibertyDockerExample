@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="OpenLibertyDockerExample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="OpenLibertyDockerExample.war">
+      <element id="artifact" artifact-name="OpenLibertyDockerExample:war exploded" />
+    </root>
+  </artifact>
+</component>
