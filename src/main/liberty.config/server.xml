@@ -6,5 +6,5 @@
 
     <httpEndpoint httpPort="${default.http.port}" httpsPort="${default.https.port}" id="defaultHttpEndpoint" host="*" />
 
-    <webApplication location="OpenLibertyDockerExample.war" contextRoot="${app.context.root" />
+    <webApplication location="OpenLibertyDockerExample.war" contextRoot="${app.context.root}" />
 </server>
